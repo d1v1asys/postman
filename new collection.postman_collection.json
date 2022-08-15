@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "f8886e51-e463-4ff2-befb-ea60e94f1fc6",
+		"name": "new collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21013310"
+	},
+	"item": [
+		{
+			"name": "create",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "asdasdd",
+					"host": [
+						"asdasdd"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
